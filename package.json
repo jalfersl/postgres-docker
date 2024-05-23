@@ -1,0 +1,24 @@
+{
+  "name": "postgres",
+  "version": "1.0.0",
+  "description": "Estudos sobre Postgres + Docker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jalfersl/postgres-docker.git"
+  },
+  "keywords": [
+    "postgres",
+    "docker",
+    "node"
+  ],
+  "author": "jardel fuchter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jalfersl/postgres-docker/issues"
+  },
+  "homepage": "https://github.com/jalfersl/postgres-docker#readme"
+}
